@@ -399,3 +399,12 @@
 - [ ] sewing womens hats
 
 [References](https://www.dynathemes.com/fiverr-upwork-google-adwords-sem-test-with-answers/)
+
+#### Q.55. How is the clickthrough rate (CTR) calculated for display ads?
+
+- [x] clicks on the ad divided by impressions
+- [ ] impressions multiplied by clicks on the ad
+- [ ] impressions divided by clicks on the ad
+- [ ] impressions divided by clicks, multiplied by conversions
+
+[References](https://support.google.com/google-ads/answer/2615875)
